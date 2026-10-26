@@ -2,10 +2,6 @@
 
 A responsive personal portfolio website showcasing my education, technical skills, AI/ML projects, and contact information. This portfolio is designed to present my work professionally to recruiters, hiring managers, and collaborators.
 
-## 🚀 Live Demo
-
-You can host this project using GitHub Pages or Netlify.
-
 ## 📌 Features
 
 - Responsive and modern design
